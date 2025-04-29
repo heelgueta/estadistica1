@@ -2,16 +2,19 @@
 
 * [Bienvenidos](README.md)
 
-## Getting Started
+## 1 Introducción
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [1.1 Organizando los datos](1-introduccion/1.1-organizando-los-datos/README.md)
+  * [Datos](1-introduccion/1.1-organizando-los-datos/datos.md)
+  * [Sujetos](1-introduccion/1.1-organizando-los-datos/sujetos.md)
+  * [Variables](1-introduccion/1.1-organizando-los-datos/variables/README.md)
+    * [Función](1-introduccion/1.1-organizando-los-datos/variables/funcion.md)
+    * [Medida](1-introduccion/1.1-organizando-los-datos/variables/medida.md)
+* [1.2 Resumiendo los datos](1-introduccion/1.2-resumiendo-los-datos.md)
 
-## Basics
+## Capítulo 2
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Editor](capitulo-2/editor.md)
+* [Markdown](capitulo-2/markdown.md)
+* [Images & media](capitulo-2/images-and-media.md)
+* [Interactive blocks](capitulo-2/interactive-blocks.md)
