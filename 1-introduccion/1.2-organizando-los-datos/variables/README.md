@@ -20,8 +20,8 @@ Una variable en estadística aplicada es una característica o propiedad que pue
 
 {% tab title="Según Medida" %}
 \* \*\*Numéricas:\*\* Estas variables se expresan en forma de números y permiten operaciones aritméticas. Se dividen en:\
-\* \*\*Discretas:\*\* Toman valores finitos o contables, como "número de hermanos".\
-\* \*\*Continuas:\*\* Pueden tomar cualquier valor dentro de un rango, como "peso" o "altura".
+Discretas:\*\* Toman valores finitos o contables, como "número de hermanos".\
+Continuas:\*\* Pueden tomar cualquier valor dentro de un rango, como "peso" o "altura".
 
 * **Categóricas:** Estas variables se expresan mediante categorías o etiquetas y no permiten realizar operaciones aritméticas. Se subclasifican en:
   * **Nominales:** No tienen un orden intrínseco, como "nacionalidad" o "color de ojos".
