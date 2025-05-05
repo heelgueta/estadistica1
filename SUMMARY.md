@@ -13,11 +13,12 @@
     * [Medida](1-introduccion/1.2-organizando-los-datos/variables/medida.md)
 * [1.3 Resumiendo los datos](1-introduccion/1.3-resumiendo-los-datos.md)
 
-## 2 Univariante
+## 2 Numéricas
 
-* [2.1 Exploración](2-univariante/2.1-exploracion.md)
-* [2.2 Variabilidad](2-univariante/2.2-variabilidad.md)
-* [2.3 Estandarización](2-univariante/2.3-estandarizacion.md)
+* [Sección 2](2-numericas/seccion-2.md)
+* [2.1 Posición](2-numericas/2.1-posicion.md)
+* [2.2 Dispersión](2-numericas/2.2-dispersion.md)
+* [2.3 Estandarización](2-numericas/2.3-estandarizacion.md)
 
 ## 3 Bivariante
 
